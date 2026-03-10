@@ -10,7 +10,7 @@
 
 # Tokio Marine Group Egypt - Official Website
 
-*Note: This repository serves as a portfolio showcase and architectural overview. The source code is proprietary and private.*
+*Note: ⚠️ This repository serves as a portfolio showcase and architectural overview. The source code is proprietary and private.*
 
 ## Overview
 This project is the official web portal for **Tokio Marine Group Egypt**, providing comprehensive information about insurance services, corporate news, and customer support. The application is built to serve both Arabic and English-speaking users natively.
