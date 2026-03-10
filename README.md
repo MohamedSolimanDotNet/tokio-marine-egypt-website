@@ -39,5 +39,4 @@ To achieve a high-quality bilingual experience without duplicating views, the pr
 * Dynamic CSS rendering is applied depending on the active culture (RTL for Arabic, LTR for English).
 
 ## Screenshots
-*(You can upload the screenshot of the homepage you provided and link it here to show the final product)*
 ![Tokio Marine Egypt Home](docs/TMGT-Website.jpeg)
