@@ -1,5 +1,5 @@
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) 
